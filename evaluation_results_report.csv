@@ -1,0 +1,6 @@
+query,rec_ids,pass_include,pass_exclude,pass
+Recommend running shoes under $100 for daily road running.,"['S4', 'S1']",True,True,True
+Which phone supports wireless charging under $600?,"['P6', 'P2', 'P1']",True,True,True
+Suggest a gaming laptop under $1000 with a dedicated GPU.,"['L2', 'L1']",True,True,True
+Find wireless headphones with active noise cancellation under $100.,['H2'],True,True,True
+Recommend earbuds with active noise cancellation.,"['E4', 'E2', 'E1']",True,True,True
